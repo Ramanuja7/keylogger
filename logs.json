@@ -1,0 +1,74 @@
+[
+  {
+    "pressed": "a"
+  },
+  {
+    "hold": "d"
+  },
+  {
+    "released": "a"
+  },
+  {
+    "released": "d"
+  },
+  {
+    "pressed": "h"
+  },
+  {
+    "hold": "i"
+  },
+  {
+    "released": "h"
+  },
+  {
+    "released": "i"
+  },
+  {
+    "pressed": "Key.space"
+  },
+  {
+    "released": "Key.space"
+  },
+  {
+    "pressed": "h"
+  },
+  {
+    "released": "h"
+  },
+  {
+    "pressed": "e"
+  },
+  {
+    "released": "e"
+  },
+  {
+    "pressed": "l"
+  },
+  {
+    "released": "l"
+  },
+  {
+    "pressed": "l"
+  },
+  {
+    "released": "l"
+  },
+  {
+    "pressed": "o"
+  },
+  {
+    "released": "o"
+  },
+  {
+    "pressed": "Key.cmd"
+  },
+  {
+    "hold": "Key.print_screen"
+  },
+  {
+    "released": "Key.print_screen"
+  },
+  {
+    "released": "Key.cmd"
+  }
+]
